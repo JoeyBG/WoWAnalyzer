@@ -22,7 +22,6 @@ const affectedByCreepingDeath = [
   SPELLS.UNSTABLE_AFFLICTION.id,
 ] as const;
 
-// TODO Add covenant dots
 export const getDotDurations = (combatant: Combatant): Record<number, number> =>
   combatant.hasTalent(SPELLS.CREEPING_DEATH_TALENT.id)
     ? Object.fromEntries(
