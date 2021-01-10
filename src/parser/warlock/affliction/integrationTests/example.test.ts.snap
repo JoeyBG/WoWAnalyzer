@@ -7,7 +7,7 @@ Array [
     "icon": "spell_shadow_curseofsargeras",
     "importance": "regular",
     "issue": <React.Fragment>
-      Your
+      Your 
       <ForwardRef
         id={980}
       />
@@ -245,7 +245,7 @@ Array [
     "icon": "spell_mage_altertime",
     "importance": "regular",
     "issue": <React.Fragment>
-      Your downtime can be improved. Try to Always Be Casting (ABC), try to reduce the delay between casting spells. Even if you have to move, try casting something instant - maybe refresh your dots. Make good use of your
+      Your downtime can be improved. Try to Always Be Casting (ABC), try to reduce the delay between casting spells. Even if you have to move, try casting something instant - maybe refresh your dots. Make good use of your 
       <ForwardRef
         id={268358}
       />
@@ -392,7 +392,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Unstable Affliction
               </a>
             </td>
@@ -415,8 +415,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               4
-
-
+              
+               
               casts
             </td>
             <td
@@ -426,7 +426,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -437,7 +437,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -478,7 +478,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Haunt
               </a>
             </td>
@@ -502,7 +502,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               7
               /9
-
+               
               casts
             </td>
             <td
@@ -581,7 +581,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Agony
               </a>
             </td>
@@ -604,8 +604,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               8
-
-
+              
+               
               casts
             </td>
             <td
@@ -615,7 +615,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -626,7 +626,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -667,7 +667,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Corruption
               </a>
             </td>
@@ -690,8 +690,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               8
-
-
+              
+               
               casts
             </td>
             <td
@@ -701,7 +701,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -712,7 +712,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -753,7 +753,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Malefic Rapture
               </a>
             </td>
@@ -776,8 +776,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               18
-
-
+              
+               
               casts
             </td>
             <td
@@ -787,7 +787,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -798,7 +798,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -839,7 +839,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Siphon Life
               </a>
             </td>
@@ -862,8 +862,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               7
-
-
+              
+               
               casts
             </td>
             <td
@@ -873,7 +873,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -884,7 +884,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -925,7 +925,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Shadow Bolt
               </a>
             </td>
@@ -948,8 +948,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -959,7 +959,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -970,7 +970,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -1011,7 +1011,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Drain Soul
               </a>
             </td>
@@ -1034,8 +1034,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               21
-
-
+              
+               
               casts
             </td>
             <td
@@ -1045,7 +1045,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -1056,7 +1056,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -1155,7 +1155,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Phantom Singularity
               </a>
             </td>
@@ -1179,7 +1179,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               3
               /4
-
+               
               casts
             </td>
             <td
@@ -1253,7 +1253,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Seed of Corruption
               </a>
             </td>
@@ -1276,8 +1276,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -1287,7 +1287,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -1298,7 +1298,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -1397,7 +1397,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Summon Darkglare
               </a>
             </td>
@@ -1421,7 +1421,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               1
               /1
-
+               
               casts
             </td>
             <td
@@ -1495,7 +1495,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Dark Soul: Misery
               </a>
             </td>
@@ -1519,7 +1519,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               1
               /2
-
+               
               casts
             </td>
             <td
@@ -1656,7 +1656,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Unending Resolve
               </a>
             </td>
@@ -1680,7 +1680,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               0
               /1
-
+               
               casts
             </td>
             <td
@@ -1817,7 +1817,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Burning Rush
               </a>
             </td>
@@ -1840,8 +1840,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               1
-
-
+              
+               
               casts
             </td>
             <td
@@ -1851,7 +1851,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -1862,7 +1862,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -1903,7 +1903,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Drain Life
               </a>
             </td>
@@ -1926,8 +1926,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -1937,7 +1937,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -1948,7 +1948,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -1989,7 +1989,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Mortal Coil
               </a>
             </td>
@@ -2013,7 +2013,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               0
               /4
-
+               
               casts
             </td>
             <td
@@ -2087,7 +2087,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Demonic Circle Summon
               </a>
             </td>
@@ -2111,7 +2111,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               0
               /14
-
+               
               casts
             </td>
             <td
@@ -2185,7 +2185,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Demonic Circle Teleport
               </a>
             </td>
@@ -2209,7 +2209,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               0
               /5
-
+               
               casts
             </td>
             <td
@@ -2283,7 +2283,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Soulstone
               </a>
             </td>
@@ -2306,8 +2306,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -2317,7 +2317,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -2328,7 +2328,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -2369,7 +2369,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Demonic Gateway
               </a>
             </td>
@@ -2393,7 +2393,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               1
               /12
-
+               
               casts
             </td>
             <td
@@ -2467,7 +2467,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Banish
               </a>
             </td>
@@ -2490,8 +2490,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -2501,7 +2501,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -2512,7 +2512,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -2553,7 +2553,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Create Healthstone
               </a>
             </td>
@@ -2576,8 +2576,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -2587,7 +2587,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -2598,7 +2598,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -2639,7 +2639,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Create Soulwell
               </a>
             </td>
@@ -2663,7 +2663,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               0
               /2
-
+               
               casts
             </td>
             <td
@@ -2737,7 +2737,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Enslave Demon
               </a>
             </td>
@@ -2760,8 +2760,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -2771,7 +2771,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -2782,7 +2782,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -2823,7 +2823,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Eye of Kilrogg
               </a>
             </td>
@@ -2846,8 +2846,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -2857,7 +2857,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -2868,7 +2868,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -2909,7 +2909,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Fear
               </a>
             </td>
@@ -2932,8 +2932,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -2943,7 +2943,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -2954,7 +2954,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -2995,7 +2995,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Curse of Tongues
               </a>
             </td>
@@ -3018,8 +3018,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -3029,7 +3029,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -3040,7 +3040,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -3081,7 +3081,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Curse of Weakness
               </a>
             </td>
@@ -3104,8 +3104,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -3115,7 +3115,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -3126,7 +3126,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -3167,7 +3167,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Curse of Exhaustion
               </a>
             </td>
@@ -3190,8 +3190,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -3201,7 +3201,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -3212,7 +3212,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -3253,7 +3253,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Health Funnel
               </a>
             </td>
@@ -3276,8 +3276,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -3287,7 +3287,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -3298,7 +3298,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -3339,7 +3339,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Summon Imp
               </a>
             </td>
@@ -3362,8 +3362,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -3373,7 +3373,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -3384,7 +3384,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -3425,7 +3425,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Shadowfury
               </a>
             </td>
@@ -3449,7 +3449,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               0
               /3
-
+               
               casts
             </td>
             <td
@@ -3523,7 +3523,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Unending Breath
               </a>
             </td>
@@ -3546,8 +3546,8 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
               }
             >
               0
-
-
+              
+               
               casts
             </td>
             <td
@@ -3557,7 +3557,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               className="text-left"
@@ -3568,7 +3568,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                 }
               }
             >
-
+              
             </td>
             <td
               style={
@@ -3609,7 +3609,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Fel Domination
               </a>
             </td>
@@ -3633,7 +3633,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               0
               /1
-
+               
               casts
             </td>
             <td
@@ -3765,7 +3765,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Spiritual Healing Potion
               </a>
             </td>
@@ -3789,7 +3789,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               0
               /1
-
+               
               casts
             </td>
             <td
@@ -3863,7 +3863,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
                     }
                   }
                 />
-
+                 
                 Combat Potion
               </a>
             </td>
@@ -3887,7 +3887,7 @@ exports[`Affliction Warlock integration test: example log CastEfficiency matches
             >
               0
               /1
-
+               
               casts
             </td>
             <td
@@ -3956,7 +3956,7 @@ Array [
         id="shared.modules.castEfficiency.suggest"
         message="Try to cast <0/> more often."
       />
-
+       
       This estimate may not be correct sometimes because of Haunt's resets. The real amount of possible Haunts will be higher if there were adds on this fight.
     </React.Fragment>,
     "stat": <React.Fragment>
@@ -4000,8 +4000,8 @@ Array [
         id="shared.modules.castEfficiency.suggest"
         message="Try to cast <0/> more often."
       />
-
-
+       
+      
     </React.Fragment>,
     "stat": <React.Fragment>
       <Trans
@@ -4044,8 +4044,8 @@ Array [
         id="shared.modules.castEfficiency.suggest"
         message="Try to cast <0/> more often."
       />
-
-
+       
+      
     </React.Fragment>,
     "stat": <React.Fragment>
       <Trans
@@ -4082,7 +4082,7 @@ Array [
     "icon": "spell_shadow_abominationexplosion",
     "importance": "major",
     "issue": <React.Fragment>
-      Your
+      Your 
       <ForwardRef
         id={172}
       />
@@ -4125,7 +4125,7 @@ exports[`Affliction Warlock integration test: example log Darkglare matches the 
               src="//render-us.worldofwarcraft.com/icons/56/inv_beholderwarlock.jpg"
             />
           </a>
-
+           
           <a
             className="spell-link-text"
             href="http://wowhead.com/spell=205180"
@@ -4139,7 +4139,7 @@ exports[`Affliction Warlock integration test: example log Darkglare matches the 
           className="value"
         >
           89 DPS
-
+           
           <dfn
             className=""
             onMouseEnter={[Function]}
@@ -4148,7 +4148,7 @@ exports[`Affliction Warlock integration test: example log Darkglare matches the 
             style={Object {}}
           >
             <small>
-              bonus damage
+              bonus damage 
               <sup>
                 *
               </sup>
@@ -4156,13 +4156,13 @@ exports[`Affliction Warlock integration test: example log Darkglare matches the 
           </dfn>
           <br />
           4.0
-
+           
           <small>
             average DoTs extended
           </small>
           <br />
           214 DPS
-
+           
           <dfn
             className=""
             onMouseEnter={[Function]}
@@ -4171,7 +4171,7 @@ exports[`Affliction Warlock integration test: example log Darkglare matches the 
             style={Object {}}
           >
             <small>
-              total damage
+              total damage 
               <sup>
                 *
               </sup>
@@ -4224,7 +4224,7 @@ exports[`Affliction Warlock integration test: example log DistanceMoved matches 
         <div
           className="value"
         >
-          ≈
+          ≈ 
           253
            yards
           <small
@@ -4234,7 +4234,7 @@ exports[`Affliction Warlock integration test: example log DistanceMoved matches 
               }
             }
           >
-            ≈
+            ≈ 
             38.12
             %
           </small>
@@ -4331,7 +4331,7 @@ exports[`Affliction Warlock integration test: example log DotUptimeStatisticBox 
           }
         >
           89
-           %
+           % 
           <small>
             uptime
           </small>
@@ -4394,7 +4394,7 @@ exports[`Affliction Warlock integration test: example log DotUptimeStatisticBox 
           }
         >
           77
-           %
+           % 
           <small>
             uptime
           </small>
@@ -4465,7 +4465,7 @@ exports[`Affliction Warlock integration test: example log DotUptimeStatisticBox 
           }
         >
           52
-           %
+           % 
           <small>
             uptime
           </small>
@@ -4544,7 +4544,7 @@ exports[`Affliction Warlock integration test: example log DotUptimeStatisticBox 
           }
         >
           82
-           %
+           % 
           <small>
             uptime
           </small>
@@ -4615,7 +4615,7 @@ exports[`Affliction Warlock integration test: example log DotUptimeStatisticBox 
           }
         >
           0
-           %
+           % 
           <small>
             uptime
           </small>
@@ -4661,7 +4661,7 @@ exports[`Affliction Warlock integration test: example log DotUptimeStatisticBox 
           }
         >
           80
-           %
+           % 
           <small>
             uptime
           </small>
@@ -4736,7 +4736,7 @@ exports[`Affliction Warlock integration test: example log DrainSoul matches the 
               src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_haunting.jpg"
             />
           </a>
-
+           
           <a
             className="spell-link-text"
             href="http://wowhead.com/spell=198590"
@@ -4751,7 +4751,7 @@ exports[`Affliction Warlock integration test: example log DrainSoul matches the 
         >
           277
            DPS
-
+           
           <small>
             10.11
              % of total
@@ -4772,9 +4772,9 @@ exports[`Affliction Warlock integration test: example log DrainSoul matches the 
               d="M41.603,33.535l9.219-0.857l-9.219-0.857c-0.41-4.574-4.06-8.223-8.634-8.633l-0.857-9.218l-0.857,9.218 c-4.574,0.41-8.224,4.06-8.634,8.633l-9.219,0.857l9.219,0.857c0.41,4.573,4.06,8.224,8.634,8.633l0.857,9.218l0.857-9.218 C37.542,41.758,41.193,38.108,41.603,33.535z M33.076,41.007l0.215-2.313h-2.36l0.215,2.313c-3.856-0.444-6.921-3.509-7.365-7.364 l2.313,0.215v-2.359l-2.313,0.215c0.444-3.855,3.509-6.92,7.365-7.364l-0.215,2.313h2.36l-0.215-2.313 c3.856,0.444,6.921,3.509,7.365,7.364l-2.314-0.215v2.359l2.314-0.215C39.998,37.498,36.932,40.563,33.076,41.007z"
             />
           </svg>
-
+           
           0
-
+           
           <small>
             shards sniped
           </small>
@@ -5124,7 +5124,7 @@ exports[`Affliction Warlock integration test: example log Haunt matches the stat
               src="//render-us.worldofwarcraft.com/icons/56/ability_warlock_haunt.jpg"
             />
           </a>
-
+           
           <a
             className="spell-link-text"
             href="http://wowhead.com/spell=48181"
@@ -5138,14 +5138,14 @@ exports[`Affliction Warlock integration test: example log Haunt matches the stat
           className="value"
         >
           79.94
-           %
+           % 
           <small>
             uptime
           </small>
           <br />
           195
            DPS
-
+           
           <small>
             7.14
              % of total
@@ -5181,7 +5181,7 @@ Array [
     "icon": "ability_warlock_haunt",
     "importance": "regular",
     "issue": <React.Fragment>
-      Your
+      Your 
       <ForwardRef
         id={48181}
       />
@@ -5224,7 +5224,7 @@ exports[`Affliction Warlock integration test: example log PhantomSingularity mat
               src="//render-us.worldofwarcraft.com/icons/56/inv_enchant_voidsphere.jpg"
             />
           </a>
-
+           
           <a
             className="spell-link-text"
             href="http://wowhead.com/spell=205179"
@@ -5239,7 +5239,7 @@ exports[`Affliction Warlock integration test: example log PhantomSingularity mat
         >
           109
            DPS
-
+           
           <small>
             3.97
              % of total
@@ -5317,7 +5317,7 @@ exports[`Affliction Warlock integration test: example log ShadowEmbrace matches 
               src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_shadowembrace.jpg"
             />
           </a>
-
+           
           <a
             className="spell-link-text"
             href="http://wowhead.com/spell=32388"
@@ -5332,7 +5332,7 @@ exports[`Affliction Warlock integration test: example log ShadowEmbrace matches 
         >
           0.00
            %
-
+           
           <dfn
             className=""
             onMouseEnter={[Function]}
@@ -5341,7 +5341,7 @@ exports[`Affliction Warlock integration test: example log ShadowEmbrace matches 
             style={Object {}}
           >
             <small>
-              uptime
+              uptime 
               <sup>
                 *
               </sup>
@@ -5350,7 +5350,7 @@ exports[`Affliction Warlock integration test: example log ShadowEmbrace matches 
           <br />
           0
            DPS
-
+           
           <small>
             0.00
              % of total
@@ -5386,7 +5386,7 @@ Array [
     "icon": "spell_shadow_shadowembrace",
     "importance": "major",
     "issue": <React.Fragment>
-      Your
+      Your 
       <ForwardRef
         id={32390}
       />
@@ -5409,7 +5409,7 @@ Array [
     "icon": "spell_shadow_requiem",
     "importance": "regular",
     "issue": <React.Fragment>
-      Your
+      Your 
       <ForwardRef
         id={63106}
       />
@@ -5452,7 +5452,7 @@ exports[`Affliction Warlock integration test: example log SoulShardDetails match
               src="//render-us.worldofwarcraft.com/icons/56/inv_misc_gem_amethyst_02.jpg"
             />
           </a>
-
+           
           <a
             className="spell-link-text"
             href="http://wowhead.com/spell=246985"
@@ -5466,7 +5466,7 @@ exports[`Affliction Warlock integration test: example log SoulShardDetails match
           className="value"
         >
           0
-
+           
           <small>
             Wasted Soul Shards
           </small>
@@ -5788,7 +5788,7 @@ Array [
     "icon": "spell_shadow_unstableaffliction_3",
     "importance": "major",
     "issue": <React.Fragment>
-      Your
+      Your 
       <ForwardRef
         id={316099}
       />
@@ -5975,7 +5975,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     className="icon game "
                     src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_curseofsargeras.jpg"
                   />
-
+                   
                   Agony
                 </a>
                  uptime
@@ -5998,10 +5998,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   88.79%
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -6049,7 +6049,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     className="icon game "
                     src="/img/Icons/spell_shadow_abominationexplosion.jpg"
                   />
-
+                   
                   Corruption
                 </a>
                  uptime
@@ -6072,10 +6072,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   76.53%
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -6123,7 +6123,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     className="icon game "
                     src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_unstableaffliction_3.jpg"
                   />
-
+                   
                   Unstable Affliction
                 </a>
                  uptime
@@ -6146,10 +6146,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   52.13%
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -6197,7 +6197,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     className="icon game "
                     src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_shadowembrace.jpg"
                   />
-
+                   
                   Shadow Embrace
                 </a>
                  uptime
@@ -6220,10 +6220,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   0.00%
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -6271,7 +6271,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     className="icon game "
                     src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_requiem.jpg"
                   />
-
+                   
                   Siphon Life
                 </a>
                  uptime
@@ -6294,10 +6294,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   81.62%
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -6345,7 +6345,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     className="icon game "
                     src="//render-us.worldofwarcraft.com/icons/56/ability_warlock_haunt.jpg"
                   />
-
+                   
                   Haunt
                 </a>
                  uptime
@@ -6368,10 +6368,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   79.94%
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -6528,10 +6528,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     onTouchStart={[Function]}
                     style={Object {}}
                   >
-
+                     
                     0.00
-
-
+                     
+                     
                   </dfn>
                 </div>
               </div>
@@ -6673,7 +6673,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     className="icon game "
                     src="//render-us.worldofwarcraft.com/icons/56/inv_beholderwarlock.jpg"
                   />
-
+                   
                   Summon Darkglare
                 </a>
               </div>
@@ -6695,10 +6695,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   100.00%
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -6746,7 +6746,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     className="icon game "
                     src="//render-us.worldofwarcraft.com/icons/56/spell_warlock_soulburn.jpg"
                   />
-
+                   
                   Dark Soul: Misery
                 </a>
               </div>
@@ -6768,10 +6768,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   86.85%
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -6819,7 +6819,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     className="icon game "
                     src="//render-us.worldofwarcraft.com/icons/56/inv_enchant_voidsphere.jpg"
                   />
-
+                   
                   Phantom Singularity
                 </a>
               </div>
@@ -6841,10 +6841,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   74.08%
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -6959,7 +6959,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
           <div
             className="col-md-12"
           >
-            Use other spells in your toolkit to your advantage. For example, you can try to minimize necessary movement by using
+            Use other spells in your toolkit to your advantage. For example, you can try to minimize necessary movement by using 
             <a
               className="spell-link-text"
               href="http://wowhead.com/spell=111771"
@@ -6971,10 +6971,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                 className="icon game "
                 src="//render-us.worldofwarcraft.com/icons/56/spell_warlock_demonicportal_green.jpg"
               />
-
+               
               Demonic Gateway
             </a>
-            ,
+            , 
             <a
               className="spell-link-text"
               href="http://wowhead.com/spell=268358"
@@ -6986,10 +6986,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                 className="icon game "
                 src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_demoniccirclesummon.jpg"
               />
-
+               
               Demonic Circle
             </a>
-            ,
+            , 
             <a
               className="spell-link-text"
               href="http://wowhead.com/spell=111400"
@@ -7001,10 +7001,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                 className="icon game "
                 src="//render-us.worldofwarcraft.com/icons/56/ability_deathwing_sealarmorbreachtga.jpg"
               />
-
+               
               Burning Rush
             </a>
-             or mitigate incoming damage with
+             or mitigate incoming damage with 
             <a
               className="spell-link-text"
               href="http://wowhead.com/spell=104773"
@@ -7016,7 +7016,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                 className="icon game "
                 src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_demonictactics.jpg"
               />
-
+               
               Unending Resolve
             </a>
             /
@@ -7031,7 +7031,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                 className="icon game "
                 src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_deathpact.jpg"
               />
-
+               
               Dark Pact
             </a>
             .
@@ -7062,7 +7062,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     className="icon game "
                     src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_demoniccircleteleport.jpg"
                   />
-
+                   
                   Demonic Circle Teleport
                 </a>
               </div>
@@ -7084,10 +7084,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   0.00%
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -7135,7 +7135,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     className="icon game "
                     src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_demonictactics.jpg"
                   />
-
+                   
                   Unending Resolve
                 </a>
               </div>
@@ -7157,10 +7157,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   0.00%
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -7275,7 +7275,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
           <div
             className="col-md-12"
           >
-            You should try to avoid doing nothing during the fight. When you're out of Soul Shards, cast
+            You should try to avoid doing nothing during the fight. When you're out of Soul Shards, cast 
             <a
               className="spell-link-text"
               href="http://wowhead.com/spell=232670"
@@ -7287,7 +7287,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                 className="icon game "
                 src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_shadowbolt.jpg"
               />
-
+               
               Shadow Bolt
             </a>
             /
@@ -7302,10 +7302,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                 className="icon game "
                 src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_haunting.jpg"
               />
-
+               
               Drain Soul
             </a>
-            , refresh your DoTs etc. When you have to move, use your instant abilities or try to utilize
+            , refresh your DoTs etc. When you have to move, use your instant abilities or try to utilize 
             <a
               className="spell-link-text"
               href="http://wowhead.com/spell=268358"
@@ -7317,10 +7317,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                 className="icon game "
                 src="//render-us.worldofwarcraft.com/icons/56/spell_shadow_demoniccirclesummon.jpg"
               />
-
+               
               Teleport
             </a>
-             or
+             or 
             <a
               className="spell-link-text"
               href="http://wowhead.com/spell=111771"
@@ -7332,7 +7332,7 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                 className="icon game "
                 src="//render-us.worldofwarcraft.com/icons/56/spell_warlock_demonicportal_green.jpg"
               />
-
+               
               Gateway
             </a>
              to reduce the movement even further.
@@ -7370,10 +7370,10 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   17.67%
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -7532,11 +7532,11 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   3
-
+                   
                   / 6
-
+                   
                 </div>
               </div>
               <div
@@ -7596,11 +7596,11 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   0
-
+                   
                   / 6
-
+                   
                 </div>
               </div>
               <div
@@ -7659,11 +7659,11 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   0
-
+                   
                   / 1
-
+                   
                 </div>
               </div>
               <div
@@ -7722,11 +7722,11 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   0
-
+                   
                   / 1
-
+                   
                 </div>
               </div>
               <div
@@ -7786,11 +7786,11 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   0
-
+                   
                   / 1
-
+                   
                 </div>
               </div>
               <div
@@ -7850,11 +7850,11 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   0
-
+                   
                   / 1
-
+                   
                 </div>
               </div>
               <div
@@ -7914,13 +7914,13 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   <trans
                     id="common.no"
                     message="No"
                   />
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -7980,13 +7980,13 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   <trans
                     id="common.yes"
                     message="Yes"
                   />
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -8046,13 +8046,13 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   <trans
                     id="common.no"
                     message="No"
                   />
-
-
+                   
+                   
                 </div>
               </div>
               <div
@@ -8112,13 +8112,13 @@ exports[`Affliction Warlock integration test: example log matches the checklist 
                     }
                   }
                 >
-
+                   
                   <trans
                     id="common.yes"
                     message="Yes"
                   />
-
-
+                   
+                   
                 </div>
               </div>
               <div
